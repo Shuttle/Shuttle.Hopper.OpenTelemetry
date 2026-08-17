@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
@@ -12,7 +12,7 @@
 
   <PropertyGroup>
     <Description>OpenTelemetry instrumentation for Shuttle.Hopper.</Description>
-    <Version>22.0.0-alpha.1</Version>
+    <Version>22.0.0</Version>
     <PackageProjectUrl>https://github.com/shuttle/Shuttle.Hopper.OpenTelemetry</PackageProjectUrl>
     <RepositoryUrl>https://github.com/shuttle/Shuttle.Hopper.OpenTelemetry.git</RepositoryUrl>
     <PackageTags>shuttle</PackageTags>
